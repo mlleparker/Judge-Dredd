@@ -1,4 +1,5 @@
 # Judge-Dredd
+## Wordlists manipulation tools
 
 ![Judge Dredd](https://raw.githubusercontent.com/wiki/mlleparker/Judge-Dredd/img/scrot/version_0.0.1.png)
 
@@ -9,10 +10,10 @@ _NOTE : The latest version available is the 0.0.1 Alpha._
 
 You could find a blog post about the Judge Dredd which introduce the tool [here][1].
 
-The Judge Dredd features 5 User Interfaces which allow him to have a bigger flexibility according to his need and to the situation. It has been designed to work in environment having very
-little hardware ressources, it could work with devices with at least 512 Mb of RAM . It has also been designed for working with wordlists of any size,, from some Kb to severals hundreds Gb.
+The Judge Dredd features 5 user interfaces which allow it to have a bigger flexibility according to your needs and your situation. It has been designed to work in environments with light
+hardware resources, it could work with devices with least 512 Mb of RAM . It has also been designed for working with wordlists of any size, from some Kb to several hundreds Gb.
 
-Wiki is translated in french & english, you can found the wikis [here][2].
+Wikis are translated in french & english, you can found the wikis [here][2].
 
 
 [1]: http://parker.lioness-studios.com/
