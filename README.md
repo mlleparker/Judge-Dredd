@@ -11,3 +11,7 @@ You could find a blog post about the Judge Dredd which introduce the tool [here]
 
 The Judge Dredd features 5 User Interfaces which allow him to have a bigger flexibility according to his need and to the situation. It has been designed to work in environment having very
 little hardware ressources, it could work with devices with at least 512 Mb of RAM . It has also been designed for working with wordlists of any size,, from some Kb to severals hundreds Gb.
+
+Wiki is translated in french & english, you can found wikis [here][1].
+
+[1]: https://github.com/mlleparker/Judge-Dredd/wiki
