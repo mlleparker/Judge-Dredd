@@ -6,7 +6,7 @@
 The Judge Dredd is a wordlists manipulation tools, frequently use in cryptanalysis as well as steganalysis.
 It is used for achieving statistical analysis varied as well as manipulations like filtering, extraction and injection in wordlists.
 
-_NOTE : The latest version available is the 0.0.1 Alpha (code name: I'm the law)._
+_NOTE : The latest version available is the 0.0.1 Alpha (codename: I am the LAW)._
 
 You could find a blog post about the Judge Dredd which introduce the tool [here][1].
 
