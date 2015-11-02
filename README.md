@@ -1,5 +1,5 @@
 # Judge-Dredd
-## Wordlists manipulation tools
+### Wordlists manipulation tools
 
 ![Judge Dredd](https://raw.githubusercontent.com/wiki/mlleparker/Judge-Dredd/img/scrot/version_0.0.1.png)
 
